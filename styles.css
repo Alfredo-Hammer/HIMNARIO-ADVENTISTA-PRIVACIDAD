@@ -14,6 +14,10 @@ header {
     padding: 1rem 0;
 }
 
+header h1{
+    color: #f9f9f9;
+}
+
 main {
     max-width: 900px;
     margin: 2rem auto;
